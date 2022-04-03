@@ -1,0 +1,8 @@
+package com.sl.Assignments.AssistedProjectphase1L1.pack1;
+public class pubaccessspecifiers {
+public void display() 
+ { 
+ System.out.println("This is Public Access Specifiers"); 
+ } 
+}
+
